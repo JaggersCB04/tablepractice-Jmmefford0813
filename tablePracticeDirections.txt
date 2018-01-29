@@ -1,0 +1,8 @@
+Similar to MiniProject #1, you will be using your class schedule for an assignment. You will need to create 2 tables, 1 for Fall class and 1 for Spring classes. Each table will have 4 Column and 8 Rows. The First column will be titled with the header Period, the second column will be titled with the header Class, the third column will be titled with the header Teacher, and the fourth column will be titled with the header Room. In You will list your
+
+ - class periods in the column Period
+ - class name in the column Class
+ - teach name in the column Teacher
+ - room number in the column Room
+
+Do not make these 2 tables connected. There needs to be some sort of separation between the two. Before you submit, you will need to test your page out to see if it works. If it doesn't, go through your code to see if you mispelled something, left something out, or put something extra in. You will need to submit the HTML file of this assignment.
