@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<title>Jade Mefford</title>
+  </head>
+
+  <body>
+<h2>2018 Spring Class Schedule</h2>
+
+<ol>
+<li>PE</li>
+<li>7th grade math</li>
+<li>7th grade soical studies</li>
+<li>7th grade ELA</li>
+<li>7th grade science</li>
+<li>intro to art</li>
+<li>CB04</li>
+</ol>
+   
+<p>My favorite class is my 6th hour which is intro to art.Thats my faviorte because I love to draw and paint.I've been doing art for as long as i can remember.I also like my teacher for that class she's really cool and nice.Can't wait to go there tomorrow I hate its my 6th hour because I have to wait all day.</p>
+  </body>
+</html>
